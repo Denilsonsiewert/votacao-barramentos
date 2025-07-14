@@ -130,7 +130,7 @@ export default function VotacaoColaboradorDestaque() {
             className="space-y-6"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            transition={{ duration: 0.5 }}
+            transition={{ duration: 0 }}
           >
             <div style={{ color: "green", fontSize: "1.5rem", fontWeight: "bold" }}>
               Obrigado por votar!
