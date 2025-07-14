@@ -6,7 +6,7 @@ const candidatos = [
   { id: 2, nome: "EDENILSON RODRIGUES DA SILVA" },
    { id: 4, nome: "IZAEL FELIPE CARVALHO DA SILVA" },
   { id: 5, nome: "JEAN PAULO MARTINI" },
-  { id: 17, nome: "JOAO VICTOR GIRELI CORNEIRO" },
+  { id: 3, nome: "JOAO VICTOR GIRELI CORNEIRO" },
   { id: 18, nome: "JOAO VICTOR SABINO VIANA" },
   { id: 15, nome: "KAUA STHEVAN DE SOUZA" },
   { id: 6, nome: "LUCAS FERNANDO LOOSE" },
