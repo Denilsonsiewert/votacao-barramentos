@@ -4,8 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const candidatos = [
   { id: 1, nome: "DJENEFER PAOLA GOMES" },
   { id: 2, nome: "EDENILSON RODRIGUES DA SILVA" },
-  { id: 3, nome: "GABRIEL HENRIQUE KLEMZ" },
-  { id: 4, nome: "IZAEL FELIPE CARVALHO DA SILVA" },
+   { id: 4, nome: "IZAEL FELIPE CARVALHO DA SILVA" },
   { id: 5, nome: "JEAN PAULO MARTINI" },
   { id: 18, nome: "JOAO VICTOR SABINO VIANA" },
   { id: 15, nome: "KAUA STHEVAN DE SOUZA" },
