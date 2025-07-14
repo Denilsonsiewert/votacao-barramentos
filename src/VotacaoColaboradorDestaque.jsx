@@ -63,13 +63,13 @@ export default function VotacaoColaboradorDestaque() {
       className="relative max-w-3xl mx-auto p-6 text-center"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      transition={{ duration: 0.6 }}
+      transition={{ duration: 0 }}
     >
       <motion.h1
         className="text-2xl font-bold mb-6"
         initial={{ y: -30, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.5 }}
+        transition={{ duration: 0 }}
       >
         Votação Colaborador Destaque - Barramentos
       </motion.h1>
@@ -90,7 +90,7 @@ export default function VotacaoColaboradorDestaque() {
                 layout
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.3 }}
+                transition={{ duration: 0 }}
                 style={{
                   border: voto === colab.id ? "2px solid blue" : "1px solid #ccc",
                   padding: "1rem",
